@@ -1,0 +1,9 @@
+# simple_interest.py
+principal = 1000 #principal amount in dollars
+rate = 0.05 # Annual interest rate as a decimal
+time = 3 # Time in years
+
+# Calculate simple interest
+interest = rate * time * principal
+print(f"The simple interest is: {interest}")
+
